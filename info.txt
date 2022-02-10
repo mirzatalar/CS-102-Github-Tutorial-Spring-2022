@@ -1,2 +1,28 @@
 Mirza Özgür Atalar - 22003455 - https://github.com/mirzatalar/CS-102-Github-Tutorial-Spring-2022
 Witcher 3 Wild Hunt
+commit bef283b54e518ffdc51aaf1a1eec4159afca2fe1 (HEAD -> main, origin/main, origin/HEAD)
+Merge: 35732d4 5e8c222
+Author: Mirza Özgür Atalar <91375545+mirzatalar@users.noreply.github.com>
+Date:   Thu Feb 10 23:11:19 2022 +0300
+
+    Merge pull request #1 from mirzatalar/new_information
+
+    Update info.txt
+
+commit 5e8c2221905716af99a7802d4a4b2d85f997b52b (origin/new_information, new_information)
+Author: Mirza Özgür Atalar <ozgur.atalar@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 23:10:50 2022 +0300
+
+    Update info.txt
+
+commit 35732d4d3fcd49f37e9071fb358753bc010ab1e0
+Author: Mirza Özgür Atalar <ozgur.atalar@ug.bilkent.edu.tr>
+Date:   Thu Feb 10 23:08:51 2022 +0300
+
+    Mirza_Ozgur_Atalar updated info.txt
+
+commit 9f24933982afde290a2b56418a93fecd6640b2d8
+Author: Mirza Özgür Atalar <91375545+mirzatalar@users.noreply.github.com>
+Date:   Thu Feb 10 23:05:23 2022 +0300
+
+    Initial commit
